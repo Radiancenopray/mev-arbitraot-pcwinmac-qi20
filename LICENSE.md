@@ -1,4 +1,4 @@
-# 
+# Ultimato MEV arbitrage bot complementos para Mac OS | Leve MEV arbitrage bot complementos para PC Windows. Com integração de API e suporte multi-chain — otimizado para máximo desempeño en cada plataforma.
 
 
 
